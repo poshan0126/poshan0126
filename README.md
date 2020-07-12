@@ -1,4 +1,4 @@
-![I am Poshan Pandey.](https://github.com/poshan0126/poshan0126/blob/master/123.png)
+
 #### Hey there! I'm Poshan, a college senior currently studying BE in Software. My passions are technology and art. When I am not coding, I'm probably singing or watching movies. I love to solve problems and discuss philosophy and I believe in doing everything that makes me more human.
 ## -----Python--|--Flutter--|--Node-----
 
