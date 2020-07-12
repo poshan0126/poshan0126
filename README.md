@@ -1,7 +1,6 @@
 
 #### Hey there! I'm Poshan, a college senior currently studying BE in Software. My passions are technology and art. When I am not coding, I'm probably singing or watching movies. I love to solve problems and discuss philosophy and I believe in doing everything that makes me more human.
-## -----Python--|--Flutter--|--Node-----
-
+## #Coding #Travelling #Nepal #Music
 
 <!--
 **poshan0126/poshan0126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
