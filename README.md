@@ -1,4 +1,4 @@
-![](poshan.gif)
+![poshan](poshan.gif)
 #### A college senior currently studying BE Software at <a href = "https://ncit.edu.np/">NCIT</a>. My passions are technology and art. When I am not coding, I'm probably singing or watching movies. I love to solve problems and discuss philosophy and,
 <h2> I believe in doing everything that makes me more human.</h2>
 <h4> #Coding #Designing #Travelling #Music #Movies</h4>
