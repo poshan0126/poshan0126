@@ -25,7 +25,8 @@ Here are some ideas to get you started:
   <h4>Acing Computer Vsion</h4>
 </details>
 
-<h2>Find My blogs<a href = "https://www.thejay.tech"> HERE</a></h2>
+<h2>Find My blogs<a href = "https://www.thejay.tech"> HERE</a></h2></br>
+
 ### Experiences
 
 [![Data Science](https://img.shields.io/badge/-DataScience-black?style=flat-square&logo=python)](https://github.com/poshan0126)
