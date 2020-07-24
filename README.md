@@ -24,8 +24,7 @@ Here are some ideas to get you started:
   <h4>Acing data science using python.</h4>
   <h4>Acing Computer Vsion</h4>
 </details>
-
-<h2>Find My blogs<a href = "https://www.thejay.tech"> HERE</a></h2></br>
+<h3>Find My blogs<a href = "https://www.thejay.tech"> HERE</a></h3>
 
 ### Experiences
 
