@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <h4>Acing Computer Vsion</h4>
 </details>
 <h3>Find My blogs<a href = "https://www.thejay.tech"> HERE</a></h3>
-<h2> Discuss projects with me in Email or Telegram link below</h2>
+<h2> Discuss projects with me in Email[hello@poshan.com.np] or <a href = "https://t.me/PoshanP">Telegram</a></h2>
 
 ### Experiences
 
