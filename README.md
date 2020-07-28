@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <h4>Acing Computer Vsion</h4>
 </details>
 <h3>Find My blogs<a href = "https://www.thejay.tech"> HERE</a></h3>
+### Discuss projects with me in Email or Telegram link below
 
 ### Experiences
 
@@ -61,6 +62,7 @@ Here are some ideas to get you started:
 
 ### Get in touch: 💬
 [![Gmail Follow](https://img.shields.io/badge/-hello@poshan.com.np-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:hello@poshan.com.np)
+[![Telegram Follow](https://img.shields.io/badge/-PoshanP-c14438?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/PoshanP)
 [![Poshan](https://img.shields.io/badge/Website-Poshan)](https://www.poshan.com.np/)
 [![Twitter Follow](https://img.shields.io/badge/-POSHAN0126-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/POSHAN0126/)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-poshan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poshan-pandey-92553a143/)
