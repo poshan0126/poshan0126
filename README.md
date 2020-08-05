@@ -1,7 +1,18 @@
-![poshan](https://raw.githubusercontent.com/poshan0126/poshan0126/master/poshan.gif)
-#### A college senior currently studying BE Software at <a href = "https://ncit.edu.np/">NCIT</a>. My passions are technology and art. When I am not coding, I'm probably singing or watching movies. I love to solve problems and discuss philosophy and,
-<h2> I believe in doing everything that makes me more human.</h2>
-<h4> #Coding #Designing #Travelling #Music #Movies</h4>
+### Find me here: 💬
+[![Gmail Follow](https://img.shields.io/badge/-hello@poshan.com.np-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:hello@poshan.com.np)
+[![Telegram Follow](https://img.shields.io/badge/-PoshanP-grey?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/PoshanP)
+[![Poshan](https://img.shields.io/badge/Website-Poshan)](https://www.poshan.com.np/)
+[![Twitter Follow](https://img.shields.io/badge/-POSHAN0126-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/POSHAN0126/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-poshan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poshan-pandey-92553a143/)
+[![Facebook Badge](https://img.shields.io/badge/-poshan_pandey-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/jay.poshan)
+[![Instagram Badge](https://img.shields.io/badge/-poshan_pandey-blue?style=flat-square&logo=Instagram&logoColor=red)](https://www.instagram.com/poshan_pandey/)
+
+
+<p> A college senior currently studying BE Software at <a href = "https://ncit.edu.np/">NCIT</a>. My passions are technology and art. When I am not coding, I'm probably singing or watching movies. I love to solve problems and discuss philosophy and,</p>
+<h4><q> I believe in doing everything that makes me more human.</q></h4>
+<h4><q> I live not merely to live but to thrive with compassion, passion, humor and style.</q></h4>
+
+<h4> #Coding #Designing #Developing #Travelling #Music #Movies</h4>
 
 <!--
 **poshan0126/poshan0126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,13 +71,5 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/poshan0126)](https://github.com/poshan0126)
 
 
-### Get in touch: 💬
-[![Gmail Follow](https://img.shields.io/badge/-hello@poshan.com.np-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:hello@poshan.com.np)
-[![Telegram Follow](https://img.shields.io/badge/-PoshanP-grey?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/PoshanP)
-[![Poshan](https://img.shields.io/badge/Website-Poshan)](https://www.poshan.com.np/)
-[![Twitter Follow](https://img.shields.io/badge/-POSHAN0126-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/POSHAN0126/)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-poshan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poshan-pandey-92553a143/)
-[![Facebook Badge](https://img.shields.io/badge/-poshan_pandey-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/jay.poshan)
-[![Instagram Badge](https://img.shields.io/badge/-poshan_pandey-blue?style=flat-square&logo=Instagram&logoColor=red)](https://www.instagram.com/poshan_pandey/)
 
 
